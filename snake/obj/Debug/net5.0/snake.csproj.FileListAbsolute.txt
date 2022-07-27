@@ -1,0 +1,16 @@
+/home/jasur/RiderProjects/snake/snake/bin/Debug/net5.0/snake
+/home/jasur/RiderProjects/snake/snake/bin/Debug/net5.0/snake.deps.json
+/home/jasur/RiderProjects/snake/snake/bin/Debug/net5.0/snake.runtimeconfig.json
+/home/jasur/RiderProjects/snake/snake/bin/Debug/net5.0/snake.runtimeconfig.dev.json
+/home/jasur/RiderProjects/snake/snake/bin/Debug/net5.0/snake.dll
+/home/jasur/RiderProjects/snake/snake/bin/Debug/net5.0/ref/snake.dll
+/home/jasur/RiderProjects/snake/snake/bin/Debug/net5.0/snake.pdb
+/home/jasur/RiderProjects/snake/snake/obj/Debug/net5.0/snake.csproj.AssemblyReference.cache
+/home/jasur/RiderProjects/snake/snake/obj/Debug/net5.0/snake.GeneratedMSBuildEditorConfig.editorconfig
+/home/jasur/RiderProjects/snake/snake/obj/Debug/net5.0/snake.AssemblyInfoInputs.cache
+/home/jasur/RiderProjects/snake/snake/obj/Debug/net5.0/snake.AssemblyInfo.cs
+/home/jasur/RiderProjects/snake/snake/obj/Debug/net5.0/snake.csproj.CoreCompileInputs.cache
+/home/jasur/RiderProjects/snake/snake/obj/Debug/net5.0/snake.dll
+/home/jasur/RiderProjects/snake/snake/obj/Debug/net5.0/ref/snake.dll
+/home/jasur/RiderProjects/snake/snake/obj/Debug/net5.0/snake.pdb
+/home/jasur/RiderProjects/snake/snake/obj/Debug/net5.0/snake.genruntimeconfig.cache
